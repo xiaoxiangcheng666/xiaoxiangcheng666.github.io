@@ -4,6 +4,9 @@ This repository contains the source code for my personal portfolio website:
 👉 [https://xyzcxyz.github.io](https://xyzcxyz.github.io)
 
 ## 📂 Project Structure
+
+```plaintext
+.
 ├── index.html       # Main webpage
 ├── icons/           # Social media and other icons
 └── images/          # About, projects, skills images
