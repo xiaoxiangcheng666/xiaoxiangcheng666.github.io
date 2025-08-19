@@ -16,9 +16,9 @@ This repository contains the source code for my personal portfolio website:
 
 ## 🛠️ Built With
 - HTML5, CSS3
-- [Bootstrap 4](https://getbootstrap.com/)
-- [Font Awesome](https://fontawesome.com/) icons
+- Bootstrap 4
+- Font Awesome icons
 
 ## 🙏 Acknowledgments
 
-Thanks to [Natassha Selvaraj](https://github.com/Natassha) for the original website template inspiration.
+Thanks to [Natassha Selvaraj](https://github.com/Natassha/DS-Portfolio-Website-ChatGPT) for the original website template inspiration.
