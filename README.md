@@ -6,7 +6,6 @@ This repository contains the source code for my personal portfolio website:
 ## 📂 Project Structure
 
 ```plaintext
-.
 ├── index.html       # Main webpage
 ├── icons/           # Social media and other icons
 └── images/          # About, projects, skills images
