@@ -1,7 +1,7 @@
 # Personal Portfolio Website
 
 This repository contains the source code for my personal portfolio website:  
-👉 [https://xiaoxiangcheng666.github.io](https://xiaoxiangcheng666.github.io)
+👉 [https://xiaoxiangch.github.io](https://xiaoxiangch.github.io)
 
 ## 📂 Project Structure
 
