@@ -5,13 +5,12 @@ This repository contains the source code for my personal portfolio website:
 
 ## 📂 Project Structure
 
-```html
-<pre>
+```plaintext
 .
 ├── index.html       # Main webpage
 ├── icons/           # Social media and other icons
 └── images/          # About, projects, skills images
-</pre>
+```
 
 ## ✨ Features
 - **About Section** – Short introduction and background
